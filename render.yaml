@@ -1,0 +1,6 @@
+static:
+  publishPath: dist
+  redirectRules:
+    - source: /*
+      destination: /index.html
+      status: 200
